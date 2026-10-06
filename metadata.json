@@ -1,0 +1,8 @@
+{
+  "name": "ArthaKu - Manajemen Keuangan & Sinkronisasi Bank",
+  "description": "Aplikasi manajemen keuangan pribadi pintar dengan pencatatan harian, sinkronisasi mutasi bank otomatis, dan analisis pengeluaran bulanan komprehensif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
